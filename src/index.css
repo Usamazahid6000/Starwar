@@ -1,0 +1,26 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: aqua;
+  color: magenta;
+}
+
+
+.table.table-bordered.top{
+  margin-top: 15px;
+}
+
+.acen-icon{
+  display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.font{
+  cursor: pointer;
+}
+
+.pagination{
+  justify-content: center;
+}
